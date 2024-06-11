@@ -1,0 +1,11 @@
+section {
+    padding: 50px 0;
+}
+
+.nav-link{
+    color: red !important;
+}
+
+.far{
+    background: #8f9091 !important;
+}
